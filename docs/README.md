@@ -26,3 +26,18 @@ The client for a CSCE 606 (Software Engineering) project serves a vital role for
 * The service to look very plain for the first 10 weeks.  The focus is on functionality, not aesthetics. "No amount of pretty can make up for broken."
 * A minimum viable product (MVP) to be completed at the end of each 2-week sprint. The MVP should have just enough features to be usable in order to gather feedback for future product development.
 * Team members to be respectful and professional.
+
+## Project Expectations
+
+These are the basic criteria I use when evaluating a project for fitness as a 606 project.
+
+The software must have:
+
+* Users of at least 2 different kinds with different levels of access and views of the data
+* Requires data persistence and dynamic updating of data
+* Significant control logic (i.e. does meaningful and non-trivial computation)
+* A browser-based / web front-end (no desktop or mobile-native apps)
+* Enough features for a team of 7 +/- 2 students to spend several weeks implementing (be "big")
+* Not too many or too complex of features (but not "too big")
+* Value for the client such that the client could potentially use it
+
