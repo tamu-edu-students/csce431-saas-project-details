@@ -1,19 +1,19 @@
-# CSCE 606 SaaS Projects
+# CSCE 431 SaaS Projects
 
 ## Client Expectations
 
-The client for a CSCE 606 (Software Engineering) project serves a vital role for the course and the students.
+The client for a CSCE 431 (Software Engineering) project serves a vital role for the course and the students.
 
 ### Clients are expected to...
 
 * Meet with the development team periodically (at least once every two weeks) to
   + identify the functions that the system should perform.
-  + sketch out a user interface and develop a "storyboard" of how the interface works.
+  + sketch out user interfaces and develop storyboards of how the interfaces work.
   + try out the software.
-  + provide feedback on prioritizing additional features.
+  + provide feedback on existing and desired additional features.
   + create, review, and revise as needed a schedule of milestones (what features when)
-* Participate in requirements engineering at the beginning of the project (discussing what you want)
-* Participate in verification and validation at the end (discussing what you got).
+* Participate in requirements engineering throughout the project (discussing what you want).
+* Participate in verification and validation throughout the project (discussing what you got).
 * Provide a final evaluation of the project, which will be used to provide feedback to the instructional team.
 * Treat the team members with respect.
 
@@ -29,7 +29,7 @@ The client for a CSCE 606 (Software Engineering) project serves a vital role for
 
 ## Project Expectations
 
-These are the basic criteria I use when evaluating a project for fitness as a 606 project.
+These are the basic criteria I use when evaluating a project for fitness as a project.
 
 The software must have:
 
@@ -37,7 +37,7 @@ The software must have:
 * Requires data persistence and dynamic updating of data
 * Significant control logic (i.e. does meaningful and non-trivial computation)
 * A browser-based / web front-end (no desktop or mobile-native apps)
-* Enough features for a team of 7 +/- 2 students to spend several weeks implementing (be "big")
+* Enough features for a team of 6 students to spend several weeks implementing (be "big")
 * Not too many or too complex of features (but not "too big")
 * Value for the client such that the client could potentially use it
 
